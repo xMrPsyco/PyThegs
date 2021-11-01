@@ -17,7 +17,7 @@ This project is about scraping a table from a wikipedia page. For this web scrap
 **Project 4: Weather **
 This was a little project that can track the weather from every location you want. Open the file and fill in the places i name. After that you can succesfully run this script. 
 
-Project 5: Amazon_Scrapers
+**Project 5: Amazon_Scrapers**
 This was my biggest project so far. The Amazon Projects contains about 3 projects.
 
 Amazon Page Scraper
@@ -36,7 +36,7 @@ For this project I have used the libraries requests, BeautifulSoup and Pandas.
 To run this, you have to fill in the link you want to scrape and do some other adjustments that you can find in the script. 
 
 
-Project 6: 
+**Project 6: **
 This project is about collecting about products on the website from nike. This script was more for the fun but you can use it for marketing analysis. 
 For this project I have used the libraries requests, BeautifulSoup, selenium, csv and time. 
 To run this script, you only have to run this script. 
