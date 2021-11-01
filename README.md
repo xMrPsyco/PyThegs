@@ -20,17 +20,17 @@ This was a little project that can track the weather from every location you wan
 **Project 5: Amazon_Scrapers**:
 This was my biggest project so far. The Amazon Projects contains about 3 projects.
 
-Amazon Page Scraper
+Amazon Page Scraper:
 This project is about scraping all the urls from a keyword search in Ammazon. This script is useful for data analysts who need all the links for one product at once. 
 For this project I have used the libraries requests_html and BeautifulSoup.
 To run this script, search something on amazon. After that, copy the link and paste it in the script. 
 
-Amazon Price Checker
+Amazon Price Checker:
 This project is about monitoring the price 24/7 on Amazon and when the price fell down, it will automatically send you an e-mail. This script is useful when you want to buy something at the lowest price point or want to keep track of your competitors. 
 For this project I have used the libraries requests, BeautifulSoup, smtlib and time. 
 To run this you have to fill in the link you want to scrape and your e-mail and password. 
 
-Amazon Review 
+Amazon Review Scraper: 
 This project is about collecting reviews on Amazon and export it into a csv file. This script is useful for grabbing all the necessary review information at once and collect them in a csv file. 
 For this project I have used the libraries requests, BeautifulSoup and Pandas.
 To run this, you have to fill in the link you want to scrape and do some other adjustments that you can find in the script. 
