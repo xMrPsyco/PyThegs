@@ -45,6 +45,9 @@ To run this script, you only have to run this script.
 
 The next version of this project would include a project that allows you to monitor a product that is out of stock and when it comes available, you will get a notify in discord. 
 
+It is possible to open the code, look at the code, copy it or change it via a program such as Visual Studio Code. Latest version of Visual Studio Code available from https://code.visualstudio.com/download.
+
+If you can't open or run a project, please contact me: thijs.vanesch@student.fontys.nl
 
 
 
