@@ -1,7 +1,7 @@
 # PyThegs
 PyThegs is a web scraping project in Python that has been made for the AC Web-Programming on the Academy for Creative Creative Economy.
 
-Language: English. Version: 1.0, Python 3.9
+Language: English. Version: 1.0, 
 
 You are now looking at my project. For this project the coding language Python 3 has been used. This project is about learning the basics about Python and scrape information from different websites. I made this project because I wanted to learn Python and specifically web scraping with Python. 
 
