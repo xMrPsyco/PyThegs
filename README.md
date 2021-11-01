@@ -5,19 +5,19 @@ Language: English. Version: 1.0, Python 3.9
 
 You are now looking at my project. For this project the coding language Python 3 has been used. This project is about learning the basics about Python and scrape information from different websites. The project is divided into 5 folders. 
 
-**Project 1: Python_Tutorial**
+**Project 1: Python_Tutorial**:
 In this project, I learned the basics of Python. What you'll find here are the files I wrote to help me learn the basics. 
 
-**Project 2: Udemy_Project**
+**Project 2: Udemy_Project**:
 In this project, you will find my first web scraper. For this web scraper I have used the libraries requests and BeautifulSoup. With this scraper you can grab the html tag, links and words from the website. I have made this scraper to understand the basics of web scraping and experiment with it.
 
-**Project 3: Wikipedia_Project**
+**Project 3: Wikipedia_Project**:
 This project is about scraping a table from a wikipedia page. For this web scraper I have used the libraries requests, BeautifulSoup and Pandas. Wit this scraper you can export the table on this wikipedia page. This script is only made for this page so it will not work on any other wikipedia pages with a table. To make it work for that, you have to change some things in the code. 
 
-**Project 4: Weather App**
+**Project 4: Weather App**:
 This was a little project that can track the weather from every location you want. Open the file and fill in the places i name. After that you can succesfully run this script. 
 
-**Project 5: Amazon_Scrapers**
+**Project 5: Amazon_Scrapers**:
 This was my biggest project so far. The Amazon Projects contains about 3 projects.
 
 Amazon Page Scraper
@@ -36,7 +36,7 @@ For this project I have used the libraries requests, BeautifulSoup and Pandas.
 To run this, you have to fill in the link you want to scrape and do some other adjustments that you can find in the script. 
 
 
-**Project 6: **
+**Project 6: Nike**:
 This project is about collecting about products on the website from nike. This script was more for the fun but you can use it for marketing analysis. 
 For this project I have used the libraries requests, BeautifulSoup, selenium, csv and time. 
 To run this script, you only have to run this script. 
