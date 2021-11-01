@@ -14,7 +14,7 @@ In this project, you will find my first web scraper. For this web scraper I have
 **Project 3: Wikipedia_Project**
 This project is about scraping a table from a wikipedia page. For this web scraper I have used the libraries requests, BeautifulSoup and Pandas. Wit this scraper you can export the table on this wikipedia page. This script is only made for this page so it will not work on any other wikipedia pages with a table. To make it work for that, you have to change some things in the code. 
 
-**Project 4: Weather **
+**Project 4: Weather App**
 This was a little project that can track the weather from every location you want. Open the file and fill in the places i name. After that you can succesfully run this script. 
 
 **Project 5: Amazon_Scrapers**
